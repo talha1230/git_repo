@@ -200,6 +200,9 @@ button:hover::before {
     margin: 69px;
 }
 
+#aah3 {
+    padding: 40px;
+}
   #pageContainer {
     width: 940px;
     height: 505px;
@@ -230,7 +233,7 @@ button:hover::before {
     font-size: 39px;
     color: 
   #332117;
-      padding:75px;
+  padding:75px;
   }
    
   p {
@@ -268,10 +271,18 @@ button:hover::before {
 #drive {
     margin-top: 40px
 }
-
+#aa2 {
+    padding: 18px;
+    margin: 13rem;
+    margin-left: 10rem
+}
 .input-group {
     display: flex;
     align-items: center;
+    display: flex;
+    align-items: center;
+    margin-left: 46rem;
+    margin-bottom: 83px;
   }
   
   .input {
@@ -318,7 +329,7 @@ footer {
     margin-left: -15rem;
     border-radius: 25px;
 
-    margin-right: -53rem;
+    margin-right: -14rem;
   
   }
   
