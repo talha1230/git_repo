@@ -1,6 +1,4 @@
-*
-{ width 80%
-}
+
 body {
     background-color: 
   #c4bdc4;
@@ -232,6 +230,7 @@ button:hover::before {
     font-size: 39px;
     color: 
   #332117;
+      padding:75px;
   }
    
   p {
