@@ -1,8 +1,25 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-body {
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
     background-color: 
-  #c4bdc4;
-  }
+    #c4bdc4;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* body {
+  } */
 
 
 .landing-page {
@@ -43,7 +60,7 @@ header nav {
     align-items: center;
     padding: 20px;
     /* background-color: rgba(0, 0, 0, 0.7); */
-    background-image: linear-gradient( rgba(183, 104, 219, 0.274), rgba(45, 158, 211, 0.404));
+    background-image: linear-gradient( rgba(238, 113, 200, 0.438), rgba(46, 210, 231, 0.404));
     text-decoration: double;
     font-weight: bold;
     border-radius: 10px;
@@ -68,7 +85,7 @@ header nav {
   }
 
   #features {
-  background-color: rgba(139, 56, 56, 0.57);
+  background-color: transparent;
   padding: 2rem 90px 357px 0px;
   text-align: center;
   width: 2230px;
@@ -397,3 +414,10 @@ footer {
 .button:hover {
     background-color: #c1d4c1;
 }
+/* For Mobile device */
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+
