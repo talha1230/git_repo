@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-am passionate about coding and take pride in creating efficient, user-friendly, and visually appealing software. My eagerness to learn new technologies and programming languages has led me to actively seek out opportunities to expand my skillset. I am always looking for opportunities to work on projects that challenge me and help me grow as a developer. I am highly organized, detail-oriented, and efficient in my work. I am comfortable working in a team environment, as well as taking on individual projects and tasks. I have excellent communication and interpersonal skills, which have been honed through my academic and personal projects.
+I am passionate about coding and take pride in creating efficient, user-friendly, and visually appealing software. My eagerness to learn new technologies and programming languages has led me to actively seek out opportunities to expand my skillset. I am always looking for opportunities to work on projects that challenge me and help me grow as a developer. I am highly organized, detail-oriented, and efficient in my work. I am comfortable working in a team environment, as well as taking on individual projects and tasks. I have excellent communication and interpersonal skills, which have been honed through my academic and personal projects.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [talha935523@gmail.com](mailto:talha935523@gmail.com)
